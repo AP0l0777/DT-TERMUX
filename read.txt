@@ -1,0 +1,22 @@
+
+
+	EXEMPLOS
+     
+	UBUNTU
+./install.sh "-i ubuntu"
+
+
+	DEBIAN
+./install.sh "-i debian"
+
+
+	MANJARO
+./install.sh "-i manjaro"
+
+
+	KALI LINUX
+./install.sh "-i kali"
+
+
+	
+não esqueça de colocar aspas duplas "-i kali"
