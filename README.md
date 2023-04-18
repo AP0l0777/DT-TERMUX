@@ -14,7 +14,7 @@
 
 <p>arch</p>
 
-<p>alpime</p>
+<p>alpine</p>
 
 <h1> Comandos</h1>
 
