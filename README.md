@@ -18,8 +18,8 @@
 
 <h1> Comandos</h1>
 
-<p> pkg update</p>
 <p> pkg upgrade</p>
+<p> pkg update</p>
 <p> pkg install git</p>
 <p> git clone https://github.com/ap0l0777/DT-TERMUX</p>
 <p> cd DT-TERMUX</p>
