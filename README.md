@@ -23,7 +23,7 @@
 <p> pkg install git</p>
 <p> git clone https://github.com/ap0l0777/DT-TERMUX</p>
 <p> cd DT-TERMUX</p>
-<p> chmod a+ *</p>
+<p> chmod a+x *</p>
 <p>bash ros.sh</p>
 
 
