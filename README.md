@@ -1,4 +1,4 @@
-<h1> Destribuiçoes linux No Termux</h1>
+<h1> DisTro No Termux</h1>
 
 <p>ubuntu</h1>
 
